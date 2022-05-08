@@ -1,4 +1,5 @@
-# Compteur-Electrique
+# Compteur-Electrique-GAZ
+
 Ce logiciel permet de controler votre consommation d'électricité et de gaz. 
 
 Il permet aussi pour les producteurs d'électricité de faire un décompte entre ce qu'ils ont produit et consommé tout au long de l'année.
